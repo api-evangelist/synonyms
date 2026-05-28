@@ -1,0 +1,32 @@
+aid: synonyms
+name: Synonyms
+description: "Synonyms, thesaurus and antonyms information for any given word"
+url: https://www.synonyms.com/synonyms_api.php
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Dictionaries"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Dictionaries
+  - Public APIs
+apis:
+  - name: Synonyms
+    description: "Synonyms, thesaurus and antonyms information for any given word"
+    humanURL: https://www.synonyms.com/synonyms_api.php
+    baseURL: https://www.synonyms.com/synonyms_api.php
+    tags:
+      - Dictionaries
+    properties:
+      - type: Documentation
+        url: https://www.synonyms.com/synonyms_api.php
+common:
+  - type: Website
+    url: https://www.synonyms.com/synonyms_api.php
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
