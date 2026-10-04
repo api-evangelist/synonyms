@@ -39,7 +39,6 @@ apis:
   - name: Synonyms
     description: "Synonyms, thesaurus and antonyms information for any given word"
     humanURL: https://www.synonyms.com/synonyms_api.php
-    baseURL: https://www.synonyms.com/synonyms_api.php
     tags:
       - Dictionaries
     properties:
